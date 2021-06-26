@@ -1,3 +1,6 @@
+/*Find the nth smallest element in any given array  */
+
+
 #include <stdio.h>
 void main()
 {
